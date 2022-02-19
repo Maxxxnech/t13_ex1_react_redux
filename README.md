@@ -1,3 +1,10 @@
+# React Redux
+Работа по курсу https://www.youtube.com/watch?v=jvkhKRHS2TY&t=786s
+
+## Жизненный цикл приложения, использующего Redux
+initialState -> store
+view -> action -> reducer(state, action) -> newState
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
